@@ -14,5 +14,3 @@ I've now learnt how to use Jasmine to write a number of tests against pre-existi
 ## How to open/view project
 
 * download/clone repo and run index.html in your browser
-
-* alternatively, <a href="https://devboysal.github.io/Feed-Reader-Testing-Project4/">Click Here</a> for a live demo.
