@@ -93,7 +93,7 @@ $(
       });
 
       it('at least a single entry', function() {
-        expect($('.entry .feed')).toBeDefined();
+        expect($('.feed .entry').length).toBeGreaterThan(0);
       });
     });
 
